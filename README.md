@@ -1,6 +1,6 @@
 # n3-mwe
 
-This is a basic Vue 3 project with Vite using the [n3 parser and store](https://www.npmjs.com/package/n3).
+This is a basic Vue 3 project with Vite using the [n3 parser and store](https://www.npmjs.com/package/n3). ([#386](https://github.com/rdfjs/N3.js/issues/386))
 
 Created with
 
