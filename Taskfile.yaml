@@ -1,0 +1,13 @@
+version: '3'
+
+tasks:
+
+  serve:
+    desc: Run a development server
+    cmds:
+      - yarn dev
+
+  test:
+    desc: Run the tests
+    cmds:
+      - yarn run vitest
