@@ -32,7 +32,7 @@ const RAW_RUNTIME_STATE =
           ["@vue/test-utils", "npm:2.4.6"],\
           ["jsdom", "virtual:65bda6eb78a25823768b89f1f88f16aaf54f6448cfe61a3499aede6f38baa9d534fbb2f59f42dea2cdc4d48b19a465f1097301d5d6892242ae3834d84d9fc4bf#npm:24.1.0"],\
           ["n3", "npm:1.17.3"],\
-          ["streamify-string", "npm:1.0.1"],\
+          ["readable-stream", "npm:4.5.2"],\
           ["vite", "virtual:65bda6eb78a25823768b89f1f88f16aaf54f6448cfe61a3499aede6f38baa9d534fbb2f59f42dea2cdc4d48b19a465f1097301d5d6892242ae3834d84d9fc4bf#npm:5.2.13"],\
           ["vite-plugin-node-polyfills", "virtual:65bda6eb78a25823768b89f1f88f16aaf54f6448cfe61a3499aede6f38baa9d534fbb2f59f42dea2cdc4d48b19a465f1097301d5d6892242ae3834d84d9fc4bf#npm:0.22.0"],\
           ["vitest", "virtual:65bda6eb78a25823768b89f1f88f16aaf54f6448cfe61a3499aede6f38baa9d534fbb2f59f42dea2cdc4d48b19a465f1097301d5d6892242ae3834d84d9fc4bf#npm:1.6.0"],\
@@ -2658,7 +2658,7 @@ const RAW_RUNTIME_STATE =
           ["@vue/test-utils", "npm:2.4.6"],\
           ["jsdom", "virtual:65bda6eb78a25823768b89f1f88f16aaf54f6448cfe61a3499aede6f38baa9d534fbb2f59f42dea2cdc4d48b19a465f1097301d5d6892242ae3834d84d9fc4bf#npm:24.1.0"],\
           ["n3", "npm:1.17.3"],\
-          ["streamify-string", "npm:1.0.1"],\
+          ["readable-stream", "npm:4.5.2"],\
           ["vite", "virtual:65bda6eb78a25823768b89f1f88f16aaf54f6448cfe61a3499aede6f38baa9d534fbb2f59f42dea2cdc4d48b19a465f1097301d5d6892242ae3834d84d9fc4bf#npm:5.2.13"],\
           ["vite-plugin-node-polyfills", "virtual:65bda6eb78a25823768b89f1f88f16aaf54f6448cfe61a3499aede6f38baa9d534fbb2f59f42dea2cdc4d48b19a465f1097301d5d6892242ae3834d84d9fc4bf#npm:0.22.0"],\
           ["vitest", "virtual:65bda6eb78a25823768b89f1f88f16aaf54f6448cfe61a3499aede6f38baa9d534fbb2f59f42dea2cdc4d48b19a465f1097301d5d6892242ae3834d84d9fc4bf#npm:1.6.0"],\
@@ -3571,15 +3571,6 @@ const RAW_RUNTIME_STATE =
           ["inherits", "npm:2.0.4"],\
           ["readable-stream", "npm:3.6.2"],\
           ["xtend", "npm:4.0.2"]\
-        ],\
-        "linkType": "HARD"\
-      }]\
-    ]],\
-    ["streamify-string", [\
-      ["npm:1.0.1", {\
-        "packageLocation": "../../../.yarn/berry/cache/streamify-string-npm-1.0.1-040d564551-10c0.zip/node_modules/streamify-string/",\
-        "packageDependencies": [\
-          ["streamify-string", "npm:1.0.1"]\
         ],\
         "linkType": "HARD"\
       }]\
